@@ -44,7 +44,7 @@ while True:
     elif ch == "3":
         issue_book()
     elif ch == "4":
-        print("Thank you from Dev A")
+        print("Thank you from Dev A and Dev B")
         break
     else:
         print("Invalid choice")
