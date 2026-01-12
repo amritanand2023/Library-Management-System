@@ -1,3 +1,4 @@
+# Simple Library Management System
 
 library = []
 
@@ -43,9 +44,7 @@ while True:
     elif ch == "3":
         issue_book()
     elif ch == "4":
-        print("Thank you for using Library System")
+        print("Thank you from Dev A")
         break
     else:
         print("Invalid choice")
-
-print("Thank you from Dev A")
