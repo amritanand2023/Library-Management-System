@@ -1,4 +1,3 @@
-# Simple Library Management System
 
 library = []
 
@@ -48,3 +47,5 @@ while True:
         break
     else:
         print("Invalid choice")
+
+print("Thank you from Dev A")
