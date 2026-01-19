@@ -1,4 +1,3 @@
-# Simple Library Management System
 
 library = []
 
